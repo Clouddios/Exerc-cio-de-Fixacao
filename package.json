@@ -1,0 +1,19 @@
+{
+  "name": "trabalhoms",
+  "version": "1.0.0",
+  "description": "Trabalho Microserviços",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "micro",
+    "servicos",
+    "trabalho"
+  ],
+  "author": "Claudio",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
